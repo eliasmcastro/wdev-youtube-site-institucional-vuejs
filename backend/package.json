@@ -1,0 +1,10 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "scripts": {
+    "serve": "json-server server.json -p 3333"
+  },
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
