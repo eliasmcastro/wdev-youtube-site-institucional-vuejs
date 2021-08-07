@@ -15,7 +15,7 @@
 <p align="center">Por William Costa - WDEV</p>
 
 <p align="center">
-  <a href="#como-executar-o-projeto">Como executar o projeto
+  <a href="#como-executar-o-projeto">Como executar o projeto</a>
 </p>
 
 <p align="center">Front-end</p>
